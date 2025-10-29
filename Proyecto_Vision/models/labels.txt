@@ -1,0 +1,3 @@
+0 frutas_frescas
+1 frutas_verdes
+2 frutas_podridas
