@@ -1,8 +1,0 @@
-streamlit==1.36.0
-replicate
-transformers
-torch
-pillow
-numpy
-requests
-streamlit-image-comparison
